@@ -1,0 +1,7 @@
+{
+  "name": "testiac100",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
